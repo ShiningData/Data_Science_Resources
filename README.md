@@ -51,6 +51,11 @@
 
 
 
+## Interview Questions & Answers
+[111 Data Science Interview Q&A](https://www.linkedin.com/feed/update/urn:li:activity:6513985209476714496/)
+
+
+
 ## Miscellenaous 
 [Six easy ways to run Jupyter Notebook in the cloud](https://www.linkedin.com/feed/update/urn:li:activity:6519145790613528576/)
 
