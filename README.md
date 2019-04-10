@@ -12,7 +12,11 @@
 ## Machine Learning
 [Tutorials on Bagging, Boosting & Ensemble Learning](https://www.linkedin.com/feed/update/urn:li:activity:6519781398537175040/)
 
+[Pyton Machine Learning Code Repository](https://www.linkedin.com/feed/update/urn:li:activity:6511409997283454976/)
 
+[3 Articles to Learn Automated Machine Learning](https://www.linkedin.com/feed/update/urn:li:activity:6511817915728269312/)
+
+[150 Machine Learning Formulas](https://www.linkedin.com/feed/update/urn:li:ugcPost:6521462548187971584)
 
 
 
@@ -29,6 +33,12 @@
 
 ## Statistics
 [5 Article to Learn Statistics](https://www.linkedin.com/feed/update/urn:li:activity:6518461838777257984/)
+
+
+
+## Projects
+[24 Real Time Data Science Projects](https://www.linkedin.com/feed/update/urn:li:activity:6510169688285253632/)
+
 
 
 
