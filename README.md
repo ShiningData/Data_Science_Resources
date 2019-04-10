@@ -8,7 +8,8 @@
 [Git Cheat Sheat](https://www.linkedin.com/feed/update/urn:li:activity:6520797926845964289/)
 [Spacy Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:ugcPost:6519129661761519616/)
 
-
+## Machine Learning
+[Tutorials on Bagging, Boosting & Ensemble Learning](https://www.linkedin.com/feed/update/urn:li:activity:6519781398537175040/)
 
 
 
@@ -21,3 +22,7 @@
 
 ## Statistics
 [5 Article to Learn Statistics](https://www.linkedin.com/feed/update/urn:li:activity:6518461838777257984/)
+
+## Miscellenaous 
+[Six easy ways to run Jupyter Notebook in the cloud](https://www.linkedin.com/feed/update/urn:li:activity:6519145790613528576/)
+
