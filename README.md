@@ -31,6 +31,9 @@
 
 [ML Tips and Tricks](https://www.linkedin.com/feed/update/urn:li:ugcPost:6512654467547127808/)
 
+[7 Types of Regression Technique You Should Know](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+
+
 
 ## Natural Learning Process (NLP)
 [Python-NLP-Neural Networks](https://www.linkedin.com/feed/update/urn:li:ugcPost:6521320447898935296/)
