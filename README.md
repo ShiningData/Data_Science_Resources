@@ -5,11 +5,14 @@
 
 [Short PDF notes Compilation for Most Often Data Science Topic](https://www.linkedin.com/feed/update/urn:li:activity:6514924858894229504/)
 
+[Data Science Skill Sets](https://www.linkedin.com/feed/update/urn:li:activity:6507630094935252992/)
 
 
 
 ## Cheat Sheets
 [Data Science Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:6514751294652157952/)
+
+[Data Science Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:6507485248534745088/)
 
 [Git Cheat Sheat](https://www.linkedin.com/feed/update/urn:li:activity:6520797926845964289/)
 
@@ -33,7 +36,7 @@
 
 [7 Types of Regression Technique You Should Know](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
 
-
+[Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
 
 ## Natural Learning Process (NLP)
 [Python-NLP-Neural Networks](https://www.linkedin.com/feed/update/urn:li:ugcPost:6521320447898935296/)
