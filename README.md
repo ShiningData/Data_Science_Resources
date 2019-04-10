@@ -3,6 +3,10 @@
 ## Complete Repository for Data Science
 [Lazy Programmer](https://www.linkedin.com/feed/update/urn:li:activity:6518495223390277632/)
 
+[Short PDF notes Compilation for Most Often Data Science Topic](https://www.linkedin.com/feed/update/urn:li:activity:6514924858894229504/)
+
+
+
 
 ## Cheat Sheets
 [Git Cheat Sheat](https://www.linkedin.com/feed/update/urn:li:activity:6520797926845964289/)
@@ -18,6 +22,7 @@
 
 [150 Machine Learning Formulas](https://www.linkedin.com/feed/update/urn:li:ugcPost:6521462548187971584)
 
+[ML Tips and Tricks](https://www.linkedin.com/feed/update/urn:li:ugcPost:6512654467547127808/)
 
 
 ## Natural Learning Process (NLP)
@@ -29,16 +34,20 @@
 
 
 ## Deep Learning
+[Tutorials, Projects and Communities](https://www.linkedin.com/feed/update/urn:li:activity:6513090417137946624/)
+
 
 
 ## Statistics
 [5 Article to Learn Statistics](https://www.linkedin.com/feed/update/urn:li:activity:6518461838777257984/)
 
+[3 in-Depth Statistics Tutorials](https://www.linkedin.com/feed/update/urn:li:activity:6516165969981870080/)
 
 
 ## Projects
 [24 Real Time Data Science Projects](https://www.linkedin.com/feed/update/urn:li:activity:6510169688285253632/)
 
+[5 Data Science Challenges](https://www.linkedin.com/feed/update/urn:li:activity:6513977059411353600/)
 
 
 
