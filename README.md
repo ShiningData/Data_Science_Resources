@@ -9,9 +9,16 @@
 
 
 ## Cheat Sheets
+[Data Science Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:6514751294652157952/)
+
 [Git Cheat Sheat](https://www.linkedin.com/feed/update/urn:li:activity:6520797926845964289/)
 
 [Spacy Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:ugcPost:6519129661761519616/)
+
+[Mathematics Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:ugcPost:6514053778604376064/)
+
+
+
 
 ## Machine Learning
 [Tutorials on Bagging, Boosting & Ensemble Learning](https://www.linkedin.com/feed/update/urn:li:activity:6519781398537175040/)
@@ -47,16 +54,25 @@
 ## Projects
 [24 Real Time Data Science Projects](https://www.linkedin.com/feed/update/urn:li:activity:6510169688285253632/)
 
+[20 NLP Projects, Datasets, and Code](https://www.linkedin.com/feed/update/urn:li:activity:6509103592899739648/)
+
 [5 Data Science Challenges](https://www.linkedin.com/feed/update/urn:li:activity:6513977059411353600/)
 
 
 
+## SQL
+[3 Article to brush up SQL Skills](https://www.linkedin.com/feed/update/urn:li:activity:6514339453362888704/)
+
+
+
 ## Interview Questions & Answers
-[111 Data Science Interview Q&A](https://www.linkedin.com/feed/update/urn:li:activity:6513985209476714496/)
+[111 Data Science Interview Q&A](https://rpubs.com/JDAHAN/172473)
 
 
 
 ## Miscellenaous 
+[How to write better code for Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6514526906359078912/)
+
 [Six easy ways to run Jupyter Notebook in the cloud](https://www.linkedin.com/feed/update/urn:li:activity:6519145790613528576/)
 
 [Python for Data Analysis](https://www.linkedin.com/feed/update/urn:li:ugcPost:6519836399187910657/)
@@ -64,3 +80,5 @@
 [Data Science in Practice](https://www.linkedin.com/feed/update/urn:li:activity:6516283940658089984/)
 
 [Data Visualization Strategy](https://www.linkedin.com/feed/update/activity:6518027485609848833/)
+
+[]()
