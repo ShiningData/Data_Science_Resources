@@ -21,6 +21,8 @@
 
 [Complete Tutorial on Text Classification using Conditional Random Fields Model in Python](https://www.linkedin.com/feed/update/urn:li:activity:6519426626948861952/)
 
+[5 Hands-on Tutorials to Learn Natural Language Processing](https://www.linkedin.com/feed/update/urn:li:activity:6510361198393913345/)
+
 
 ## Deep Learning
 
