@@ -31,7 +31,7 @@
 
 
 ## Machine Learning
-[Andrew NG ML Notes](www.holehouse.org/mlclass/)
+[Andrew NG ML Notes](http://www.holehouse.org/mlclass/)
 
 [Tutorials on Bagging, Boosting & Ensemble Learning](https://www.linkedin.com/feed/update/urn:li:activity:6519781398537175040/)
 
