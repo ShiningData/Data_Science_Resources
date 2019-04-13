@@ -7,6 +7,11 @@
 
 [Data Science Skill Sets](https://www.linkedin.com/feed/update/urn:li:activity:6507630094935252992/)
 
+[Data Science and Data Engineering Tutorials](https://data-flair.training/blogs/)
+
+[Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+
+
 
 
 ## Cheat Sheets
@@ -20,10 +25,14 @@
 
 [Mathematics Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:ugcPost:6514053778604376064/)
 
+[Data Engineering Tutorial](https://www.linkedin.com/feed/update/urn:li:activity:6521624118234832896/)
+
 
 
 
 ## Machine Learning
+[Andrew NG ML Notes](www.holehouse.org/mlclass/)
+
 [Tutorials on Bagging, Boosting & Ensemble Learning](https://www.linkedin.com/feed/update/urn:li:activity:6519781398537175040/)
 
 [Pyton Machine Learning Code Repository](https://www.linkedin.com/feed/update/urn:li:activity:6511409997283454976/)
@@ -38,6 +47,12 @@
 
 [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
 
+
+
+
+
+
+
 ## Natural Learning Process (NLP)
 [Python-NLP-Neural Networks](https://www.linkedin.com/feed/update/urn:li:ugcPost:6521320447898935296/)
 
@@ -46,8 +61,17 @@
 [5 Hands-on Tutorials to Learn Natural Language Processing](https://www.linkedin.com/feed/update/urn:li:activity:6510361198393913345/)
 
 
+
+
+
 ## Deep Learning
 [Tutorials, Projects and Communities](https://www.linkedin.com/feed/update/urn:li:activity:6513090417137946624/)
+
+[Deep Learning Book by MIT Press](http://www.deeplearningbook.org/)
+
+[Deep Learning Drizzle](https://www.linkedin.com/feed/update/urn:li:activity:6504338024095154176/)
+
+
 
 
 
@@ -55,6 +79,9 @@
 [5 Article to Learn Statistics](https://www.linkedin.com/feed/update/urn:li:activity:6518461838777257984/)
 
 [3 in-Depth Statistics Tutorials](https://www.linkedin.com/feed/update/urn:li:activity:6516165969981870080/)
+
+
+
 
 
 ## Projects
