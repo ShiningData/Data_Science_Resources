@@ -25,8 +25,11 @@
 
 [Mathematics Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:ugcPost:6514053778604376064/)
 
-[Data Engineering Tutorial](https://www.linkedin.com/feed/update/urn:li:activity:6521624118234832896/)
+[Data Engineering Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:6521624118234832896/)
 
+[Cheatsheet of Cheatsheet](https://www.linkedin.com/feed/update/urn:li:activity:6522000693237252096/)
+
+[Data Science Notes Cheatsheet](https://www.linkedin.com/feed/update/urn:li:activity:6521133098552426496/)
 
 
 
@@ -47,8 +50,9 @@
 
 [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
 
+[5 Ways to Detect Outliers that Every Data Scientist Should Know](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
 
-
+[Unsupervised ML Notes](https://www.linkedin.com/feed/update/urn:li:ugcPost:6517079926829613056/)
 
 
 
@@ -114,4 +118,4 @@
 
 [Data Visualization Strategy](https://www.linkedin.com/feed/update/activity:6518027485609848833/)
 
-[]()
+[Tableau](https://www.linkedin.com/feed/update/urn:li:activity:6520163422305378304/)
